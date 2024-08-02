@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/homebridge/camera-utils#readme",
   "dependencies": {
+    "dgram": "^1.0.1",
     "execa": "^5.1.1",
     "ffmpeg-for-homebridge": "^2.1.1",
     "pick-port": "^2.0.1",
